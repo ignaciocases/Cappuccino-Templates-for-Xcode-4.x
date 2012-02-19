@@ -8,7 +8,7 @@ It is a first version, maybe incomplete...
 
 Note
 ----
-These templates & this description is related to **Xcode version >=4.3**! It's the first version that comes with a single bundle installation instead of an */Developer/* installation folder of 'older' Xcode versions.
+These templates & this description is related to **Xcode version >=4.3**! It's the first version that comes with a single bundle installation instead of a */Developer/* installation folder of previous Xcode versions.
 
 Links & Resources
 -----------------

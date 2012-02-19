@@ -30,7 +30,7 @@ That's it.
 
 - Download & extract the ZIP archive
 - In Finder go to the *~/Library/Developer/Xcode/Templates/File Templates* folder
-- Create a folder called *Cappuccino* (that is the new section in Xcode where you will find your these templates after pressing *cmd+n*)
+- Create a folder called *Cappuccino* (that is the new section in Xcode where you will find these templates after pressing *cmd+n*)
 - Copy the two folders *Objective-J category.xctemplate* and *Objective-J class.xctemplate* into the newly created *Cappuccino* folder.
 
 You're done.

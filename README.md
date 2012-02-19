@@ -16,9 +16,11 @@ Installation
 ------------
 
 **Installation via git clone**
+
 	cd ~/Library/Developer/Xcode/Templates/File\ Templates
 	git clone git://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x.git Cappuccino
 
 **Installation via ZIP-file**
+
 1. Download & extract ZIP archive
 2. ...

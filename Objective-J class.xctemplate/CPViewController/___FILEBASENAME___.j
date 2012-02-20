@@ -10,4 +10,16 @@ ___IMPORTHEADER_cappuccinoSubclass___
 
 @interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cappuccinoSubclass___
 
+- (id)initWithCibName:(CPString)aCibNameOrNil bundle:(CPBundle)aCibBundleOrNil
+{
+  self = [super initWithNibName:aCibNameOrNil bundle:aCibBundleOrNil];
+  
+  if (self) 
+  {
+      // Initialization code here
+  }
+  
+  return self;
+}
+
 @end

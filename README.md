@@ -17,16 +17,18 @@ I've found some useful hints of the Xcode template structure on these sites:
 - [Creating Custom Xcode 4 File Templates](http://meandmark.com/blog/2011/11/creating-custom-xcode-4-file-templates/)
 
 Installation
-------------
+============
 
-**Via _git clone_**
+Via _git clone
+--------------
 
 	cd ~/Library/Developer/Xcode/Templates/File\ Templates
 	git clone git://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x.git Cappuccino
 
 That's it.
 
-**Via _ZIP-file_**
+Via _ZIP-file
+-------------
 
 - Download & extract the ZIP archive
 - In Finder go to the *~/Library/Developer/Xcode/Templates/File Templates* folder

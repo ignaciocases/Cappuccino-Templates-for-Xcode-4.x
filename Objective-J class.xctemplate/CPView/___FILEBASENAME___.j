@@ -8,7 +8,7 @@
 
 ___IMPORTHEADER_cappuccinoSubclass___
 
-@interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cappuccinoSubclass___
+@implementation ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cappuccinoSubclass___
 
 - (id)initWithFrame:(CGRect)frame
 {

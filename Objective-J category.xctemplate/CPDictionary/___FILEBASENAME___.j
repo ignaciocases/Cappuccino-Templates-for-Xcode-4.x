@@ -8,6 +8,6 @@
 
 @import <Foundation/CPDictionary.j>
 
-@interface ___VARIABLE_categoryClass:identifier___ (___VARIABLE_categoryName:identifier___)
+@implementation ___VARIABLE_categoryClass:identifier___ (___VARIABLE_categoryName:identifier___)
 
 @end
